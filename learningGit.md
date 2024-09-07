@@ -47,3 +47,4 @@ References: https://docs.github.com/en/get-started/quickstart/git-and-github-lea
 + A repo shows all the changes that have been saved
 + Use git clone to create a copy of a repository
 + Reflection: GitHub is extremely convenient for people to work with each other without having to send the file in an email
+  + Good for people who work in different time zones
