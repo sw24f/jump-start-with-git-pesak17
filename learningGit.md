@@ -43,3 +43,4 @@ You can connect with developers around the world to ask and answer questions, le
 # Personal Notes
 + After attending office hours with professor Yan, I learned that GitHub is a cloud where we can send new versions of work to other people
 + A repo shows all the changes that have been saved
++ Use git clone to creat a cop yof a repository
