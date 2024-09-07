@@ -31,10 +31,10 @@ There are also lots of other online reading resources to help you learn Git:
 + An interactive online Git course from Pluralsight can also teach you the basics of Git.
 
 # Training
-## GitHub's web-based educational programs
+### GitHub's web-based educational programs
 GitHub offers live trainings with a hands-on, project-based approach for those who love the command line and those who don't.
 
-## Training for your company
+### Training for your company
 GitHub offers in-person classes taught by our highly-experienced educators. Contact us to ask your training-related questions.
 
 # Community
