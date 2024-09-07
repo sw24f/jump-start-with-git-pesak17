@@ -40,6 +40,8 @@ GitHub offers in-person classes taught by our highly-experienced educators. Cont
 # Community
 You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see "GitHub Community Support."
 
+References: https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources
+
 # Personal Notes
 + After attending office hours with professor Yan, I learned that GitHub is a cloud where we can send new versions of work to other people
 + A repo shows all the changes that have been saved
